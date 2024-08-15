@@ -1,0 +1,98 @@
+/* Jakarta Sans */
+
+@font-face {
+    font-family: jakarta-extralight;
+    src: url(../assets/fonts/plus-jakarta-sans/PlusJakartaSans-ExtraLight.ttf);
+}
+@font-face {
+    font-family: jakarta-light;
+    src: url(../assets/fonts/plus-jakarta-sans/PlusJakartaSans-Light.ttf);
+}
+@font-face {
+    font-family: jakarta-regular;
+    src: url(../assets/fonts/plus-jakarta-sans/PlusJakartaSans-Regular.ttf);
+}
+@font-face {
+    font-family: jakarta-medium;
+    src: url(../assets/fonts/plus-jakarta-sans/PlusJakartaSans-Medium.ttf);
+}
+@font-face {
+    font-family: jakarta-semibold;
+    src: url(../assets/fonts/plus-jakarta-sans/PlusJakartaSans-SemiBold.ttf);
+}
+@font-face {
+    font-family: jakarta-bold;
+    src: url(../assets/fonts/plus-jakarta-sans/PlusJakartaSans-Bold.ttf);
+}
+@font-face {
+    font-family: jakarta-extrabold;
+    src: url(../assets/fonts/plus-jakarta-sans/PlusJakartaSans-ExtraBold.ttf);
+}
+
+/* play fair display font */
+@font-face {
+    font-family: playfair-regular;
+    src: url(../assets/fonts/playfair-display/PlayfairDisplay-Regular.ttf);
+}
+@font-face {
+    font-family: playfair-medium;
+    src: url(../assets/fonts/playfair-display/PlayfairDisplay-Medium.ttf);
+}
+@font-face {
+    font-family: playfair-semibold;
+    src: url(../assets/fonts/playfair-display/PlayfairDisplay-SemiBold.ttf);
+}
+@font-face {
+    font-family: playfair-bold;
+    src: url(../assets/fonts/playfair-display/PlayfairDisplay-Bold.ttf);
+}
+@font-face {
+    font-family: playfair-extrabold;
+    src: url(../assets/fonts/playfair-display/PlayfairDisplay-ExtraBold.ttf);
+}
+@font-face {
+    font-family: playfair-black;
+    src: url(../assets/fonts/playfair-display/PlayfairDisplay-Black.ttf);
+}
+
+
+.jakarta-extralight{
+    font-family: jakarta-extralight, sans-serif;
+}
+.jakarta-light{
+    font-family: jakarta-light, sans-serif;
+}
+.jakarta-regular{
+    font-family: jakarta-regular, sans-serif;
+}
+.jakarta-medium{
+    font-family: jakarta-medium, sans-serif;
+}
+.jakarta-semibold{
+    font-family: jakarta-semibold, sans-serif;
+}
+.jakarta-bold{
+    font-family: jakarta-bold, sans-serif;
+}
+.jakarta-extrabold{
+    font-family: jakarta-extrabold, sans-serif;
+}
+
+.playfair-regular{
+    font-family: playfair-regular, sans-serif;
+}
+.playfair-medium{
+    font-family: playfair-medium, sans-serif;
+}
+.playfair-semibold{
+    font-family: playfair-semibold, sans-serif;
+}
+.playfair-bold{
+    font-family: playfair-bold, sans-serif;
+}
+.playfair-extrabold{
+    font-family: playfair-extrabold, sans-serif;
+}
+.playfair-black{
+    font-family: playfair-black, sans-serif;
+}

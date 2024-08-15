@@ -1,0 +1,13 @@
+:root{
+    --green: #1c3d3c;
+}
+
+.bg-brand-green{
+    background-color: var(--green);
+}
+.text-brand-green{
+    color: var(--green);
+}
+.border-brand-green{
+    border: 1px solid var(--green);
+}
