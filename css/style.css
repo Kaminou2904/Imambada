@@ -13,8 +13,22 @@
     list-style: none !important;
 }
 
+.active-nav{
+    background-color: #E1B143;
+    border-radius: 15px;
+    border: 0px !important;
+    text-align: center !important;
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+}
+
 .desk-li{
     font-size: 14px;
+    color: white;
+}
+
+.desk-li:hover{
+    color: #E1B143 !important;
 }
 
 .hero-heading{

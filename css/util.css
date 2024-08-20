@@ -1,5 +1,6 @@
 :root{
     --green: #1c3d3c;
+    --light-green: #2B5F54;
 }
 
 .bg-brand-green{
@@ -10,6 +11,16 @@
 }
 .border-brand-green{
     border: 1px solid var(--green);
+}
+
+.bg-brand-light-green{
+    background-color: var(--light-green);
+}
+.text-brand-light-green{
+    color: var(--light-green);
+}
+.border-brand-light-green{
+    border: 1px solid var(--light-green);
 }
 
 .rounded-brand{
