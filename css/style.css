@@ -6,7 +6,7 @@
 }
 
 .top-logo-wrap{
-    width: 250px;
+    width: 150px;
 }
 
 .hero-heading{
@@ -43,6 +43,7 @@
 
 .tragedy-wrap{
     background-image: url(../assets/Dark\ Background\ -\ 2.jpg);
+    background-size: cover;
 }
 
 .construction-wraper{
@@ -101,6 +102,10 @@
     margin-bottom: 15px;
 }
 
+.mob-border{
+    display: none;
+}
+
 @media screen and (width < 800px) {
     .hero-heading{
         font-size: 30px;
@@ -138,5 +143,11 @@
         justify-content: center;
         background-color: #199591;
         border-radius: 15px;
+    }
+    .desk-border{
+        display: none;
+    }
+    .mob-border{
+        display: block;
     }
 }
