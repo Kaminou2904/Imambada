@@ -9,6 +9,14 @@
     width: 150px;
 }
 
+.nav-ul{
+    list-style: none !important;
+}
+
+.desk-li{
+    font-size: 14px;
+}
+
 .hero-heading{
     font-size: 55px;
 }

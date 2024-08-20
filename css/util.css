@@ -11,3 +11,7 @@
 .border-brand-green{
     border: 1px solid var(--green);
 }
+
+.rounded-brand{
+    border-radius: 20px;
+}
