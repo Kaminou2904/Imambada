@@ -226,7 +226,7 @@
 .gallery-caroo{
     width: max-content;
     height: 400px;
-    animation: caro-ani 20s infinite linear; 
+    animation: caro-ani 60s infinite linear; 
 }
 
 .gallery-caroo .img-fluid{
