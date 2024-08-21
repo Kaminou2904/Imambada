@@ -207,6 +207,10 @@
     left: 0px;
 }
 
+.mob-visiting{
+    display: none;
+}
+
 @media screen and (width < 800px) {
     .hero-heading{
         font-size: 30px;
@@ -268,5 +272,11 @@
     }
     .footer .d-flex{
         flex-direction: column !important;
+    }
+    .bada-overlay{
+        display: none !important;
+    }
+    .mob-visiting{
+        display: block;
     }
 }
