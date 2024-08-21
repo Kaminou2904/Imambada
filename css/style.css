@@ -198,6 +198,15 @@
     position: relative;
 }
 
+.logo-n-icon{
+    position: relative;
+}
+
+.nav-icon-wrap{
+    position: absolute;
+    left: 0px;
+}
+
 @media screen and (width < 800px) {
     .hero-heading{
         font-size: 30px;
@@ -251,10 +260,13 @@
     .desk-ul{
         display: none;
     }
-    .top-logo-wrap{
-        margin: 0px !important;
-    }
     .nav-icon-wrap{
         display: flex;
+    }
+    p{
+        font-size: 14px;
+    }
+    .footer .d-flex{
+        flex-direction: column !important;
     }
 }
