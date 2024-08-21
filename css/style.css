@@ -211,6 +211,30 @@
     display: none;
 }
 
+.gallery-caro-wrap{
+    overflow-x: hidden;
+}
+
+@keyframes caro-ani {
+    0%{
+        transform: translateX(0);
+    }100%{
+        transform: translateX(-50%);
+    }
+}
+
+.gallery-caroo{
+    width: max-content;
+    height: 400px;
+    animation: caro-ani 20s infinite linear; 
+}
+
+.gallery-caroo .img-fluid{
+    height: 100% !important;
+    width: auto !important;
+    margin-right: 5px;
+}
+
 @media screen and (width < 800px) {
     .hero-heading{
         font-size: 30px;
@@ -278,5 +302,8 @@
     }
     .mob-visiting{
         display: block;
+    }
+    .gallery-caroo{
+        height: 250px;
     }
 }
