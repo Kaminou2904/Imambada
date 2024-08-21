@@ -26,3 +26,14 @@
 .rounded-brand{
     border-radius: 20px;
 }
+
+.w-max-content{
+    width: max-content;
+}
+
+.bg-img{
+    background-image: url(../assets/Dark\ Background\ -\ 1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
